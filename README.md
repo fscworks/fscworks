@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, I'm Fynn 👋
 
 [![Angular Senior Certificate](https://img.shields.io/badge/Angular_Certified-Senior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a17628e4-29a1-4fb2-8140-5e1ee718eed9)
 
+I'm a Senior Angular Developer and Fullstack Engineer focused on building scalable, maintainable, and user-friendly web applications.
 
 <!--
 **fscworks/fscworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
